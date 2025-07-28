@@ -1,0 +1,15 @@
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\bin\Debug\net9.0\Day02_C#.exe
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\bin\Debug\net9.0\Day02_C#.deps.json
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\bin\Debug\net9.0\Day02_C#.runtimeconfig.json
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\bin\Debug\net9.0\Day02_C#.dll
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\bin\Debug\net9.0\Day02_C#.pdb
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.AssemblyInfoInputs.cache
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.AssemblyInfo.cs
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.csproj.CoreCompileInputs.cache
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.sourcelink.json
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.dll
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\refint\Day02_C#.dll
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.pdb
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\Day02_C#.genruntimeconfig.cache
+D:\Test C#\Assignment-master\Day02_C#\Code\Day02_C#\Day02_C#\obj\Debug\net9.0\ref\Day02_C#.dll

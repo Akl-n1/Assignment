@@ -1,0 +1,15 @@
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\bin\Debug\net9.0\Day04_c#.exe
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\bin\Debug\net9.0\Day04_c#.deps.json
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\bin\Debug\net9.0\Day04_c#.runtimeconfig.json
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\bin\Debug\net9.0\Day04_c#.dll
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\bin\Debug\net9.0\Day04_c#.pdb
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.AssemblyInfoInputs.cache
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.AssemblyInfo.cs
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.csproj.CoreCompileInputs.cache
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.sourcelink.json
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.dll
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\refint\Day04_c#.dll
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.pdb
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\Day04_c#.genruntimeconfig.cache
+D:\Test C#\Assignment-master\Day04_c#\Day04_c#\Day04_c#\obj\Debug\net9.0\ref\Day04_c#.dll

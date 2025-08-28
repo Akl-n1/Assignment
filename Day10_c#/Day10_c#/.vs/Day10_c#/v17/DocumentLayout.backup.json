@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test C#\\Assignment-master\\Day10_c#\\Day10_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{947B98FD-5704-49C2-8F5A-5E8D073BC43D}|Day10_c#\\Day10_c#.csproj|d:\\test c#\\assignment-master\\day10_c#\\day10_c#\\day10_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947B98FD-5704-49C2-8F5A-5E8D073BC43D}|Day10_c#\\Day10_c#.csproj|solutionrelative:day10_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947B98FD-5704-49C2-8F5A-5E8D073BC43D}|Day10_c#\\Day10_c#.csproj|d:\\test c#\\assignment-master\\day10_c#\\day10_c#\\day10_c#\\allclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947B98FD-5704-49C2-8F5A-5E8D073BC43D}|Day10_c#\\Day10_c#.csproj|solutionrelative:day10_c#\\allclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test C#\\Assignment-master\\Day10_c#\\Day10_c#\\Day10_c#\\Program.cs",
+              "RelativeDocumentMoniker": "Day10_c#\\Program.cs",
+              "ToolTip": "D:\\Test C#\\Assignment-master\\Day10_c#\\Day10_c#\\Day10_c#\\Program.cs",
+              "RelativeToolTip": "Day10_c#\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAOcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:43:48.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllClasses.cs",
+              "DocumentMoniker": "D:\\Test C#\\Assignment-master\\Day10_c#\\Day10_c#\\Day10_c#\\AllClasses.cs",
+              "RelativeDocumentMoniker": "Day10_c#\\AllClasses.cs",
+              "ToolTip": "D:\\Test C#\\Assignment-master\\Day10_c#\\Day10_c#\\Day10_c#\\AllClasses.cs",
+              "RelativeToolTip": "Day10_c#\\AllClasses.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAIBEwEIBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:44:45.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\bin\Debug\net9.0\Day1_LINQ.exe
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\bin\Debug\net9.0\Day1_LINQ.deps.json
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\bin\Debug\net9.0\Day1_LINQ.runtimeconfig.json
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\bin\Debug\net9.0\Day1_LINQ.dll
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\bin\Debug\net9.0\Day1_LINQ.pdb
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.AssemblyInfoInputs.cache
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.AssemblyInfo.cs
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.csproj.CoreCompileInputs.cache
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.sourcelink.json
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.dll
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\refint\Day1_LINQ.dll
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.pdb
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\Day1_LINQ.genruntimeconfig.cache
+D:\Test C#\Assignment-master\Day1_LINQ\Day1_LINQ\Day1_LINQ\obj\Debug\net9.0\ref\Day1_LINQ.dll

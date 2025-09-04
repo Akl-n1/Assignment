@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test C#\\Assignment-master\\Day1_LINQ\\Day1_LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F937295-8324-4D89-81B7-0C5BAF2D0EBD}|Day1_LINQ\\Day1_LINQ.csproj|d:\\test c#\\assignment-master\\day1_linq\\day1_linq\\day1_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F937295-8324-4D89-81B7-0C5BAF2D0EBD}|Day1_LINQ\\Day1_LINQ.csproj|solutionrelative:day1_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F937295-8324-4D89-81B7-0C5BAF2D0EBD}|Day1_LINQ\\Day1_LINQ.csproj|d:\\test c#\\assignment-master\\day1_linq\\day1_linq\\day1_linq\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F937295-8324-4D89-81B7-0C5BAF2D0EBD}|Day1_LINQ\\Day1_LINQ.csproj|solutionrelative:day1_linq\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerators.cs",
+              "DocumentMoniker": "D:\\Test C#\\Assignment-master\\Day1_LINQ\\Day1_LINQ\\Day1_LINQ\\ListGenerators.cs",
+              "RelativeDocumentMoniker": "Day1_LINQ\\ListGenerators.cs",
+              "ToolTip": "D:\\Test C#\\Assignment-master\\Day1_LINQ\\Day1_LINQ\\Day1_LINQ\\ListGenerators.cs",
+              "RelativeToolTip": "Day1_LINQ\\ListGenerators.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAEBEwPkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:06:16.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test C#\\Assignment-master\\Day1_LINQ\\Day1_LINQ\\Day1_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Day1_LINQ\\Program.cs",
+              "ToolTip": "D:\\Test C#\\Assignment-master\\Day1_LINQ\\Day1_LINQ\\Day1_LINQ\\Program.cs",
+              "RelativeToolTip": "Day1_LINQ\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:41:16.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

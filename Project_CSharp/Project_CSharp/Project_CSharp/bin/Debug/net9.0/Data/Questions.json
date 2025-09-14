@@ -1,0 +1,72 @@
+{
+  "Math": [
+    {
+      "Type": "ChooseOneQuestion",
+      "Header": "2 + 2 = ?",
+      "Marks": 1,
+      "Answers": [
+        {
+          "Text": "3",
+          "IsCorrect": false
+        },
+        {
+          "Text": "4",
+          "IsCorrect": true
+        },
+        {
+          "Text": "5",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "Type": "ChooseOneQuestion",
+      "Header": "5 * 3 = ?",
+      "Marks": 1,
+      "Answers": [
+        {
+          "Text": "8",
+          "IsCorrect": false
+        },
+        {
+          "Text": "15",
+          "IsCorrect": true
+        },
+        {
+          "Text": "20",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "Type": "TrueFalseQuestion",
+      "Header": "The square root of 16 is 4.",
+      "Marks": 1,
+      "Answers": [
+        {
+          "Text": "True",
+          "IsCorrect": true
+        },
+        {
+          "Text": "False",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "Type": "TrueFalseQuestion",
+      "Header": "10 divided by 2 equals 6.",
+      "Marks": 1,
+      "Answers": [
+        {
+          "Text": "True",
+          "IsCorrect": false
+        },
+        {
+          "Text": "False",
+          "IsCorrect": true
+        }
+      ]
+    }
+  ]
+}

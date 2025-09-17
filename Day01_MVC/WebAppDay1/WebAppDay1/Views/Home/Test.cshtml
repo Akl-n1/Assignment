@@ -1,0 +1,33 @@
+﻿<h1>Hello ShowStudent()</h1>
+<style>
+	h3 {
+		color: red
+	}
+
+	span {
+		color: green
+	}
+</style>
+<script>
+	console.log("Mahmoud AKl")
+</script>
+@{
+	int x = 60;
+	int y = 50;
+	<h1>X:@x</h1>
+	if (x > y)
+	{
+		<h3>X:@x <span>&gt;</span> Y:@y</h3>
+	}
+	else
+	{
+		<h3>X:60</h3>
+		<p>&lt;</p>
+		<h3>Y:50</h3>
+
+	}
+}
+@for (int i = 0; i < 10; i++)
+{
+	<li>@i</li>
+}

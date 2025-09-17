@@ -1,0 +1,25 @@
+﻿@using WebAppDay1.ViewModel
+@model EveryThingBelongEmployeeViewModel
+@* فى فايل _ViewImports.cshtml *@
+@{
+	ViewData["Title"] = "DetailsVM";
+}
+
+<h1 style="color:@ViewBag.Color">@Model.EmpName</h1>
+<hr />
+<h2>@Model.DeptName</h2>
+<hr />
+<h2>@Model.Color</h2>
+<hr />
+
+<h2>@(Model.temp - 10)</h2>
+<hr />
+<select>
+	@foreach (var item in Model.branchs)
+	{
+		<option>
+			<h1>@item</h1>
+		</option>
+	}
+</select>
+

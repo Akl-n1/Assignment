@@ -1,0 +1,40 @@
+﻿@model List<Teacher>
+@{
+	ViewData["Title"] = "Index";
+}
+
+<a href="/Teacher/Create" class="btn btn-primary">ADD Teacher</a>
+<br />
+<br />
+<table class="table-hover table">
+	<thead>
+		<tr class="table-success">
+			<th scope="col">#</th>
+			<th scope="col">Name</th>
+			<th scope="col">Salary</th>
+			<th scope="col">Address</th>
+			<th scope="col">Department Name</th>
+			<th scope="col">Course Name</th>
+			<th scope="col">Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<th scope="col">@item.Id</th>
+				<th scope="col">@item.Name</th>
+				<th scope="col">@item.Salary</th>
+				<th scope="col">@item.Address</th>
+				<th scope="col">@item.Department.Name</th>
+				<th scope="col">@item.Course.Name</th>
+				<th scope="col">
+					<a href="/Teacher/Details/@item.Id">View</a>
+					<a href="/Teacher/Edit/@item.Id">Edit</a>
+					<a href="/Teacher/Delete/@item.Id">Delete</a>
+				</th>
+			</tr>
+		}
+	</tbody>
+</table>
+</table>

@@ -1,0 +1,18 @@
+﻿@model Department
+@{
+	ViewData["Title"] = "Create";
+}
+
+<form method="post" action="/Department/Create">
+	<div class="form-group">
+		<label for="Name">Department Name</label>
+		<input type="text" class="form-control" id="Name" name="Name" placeholder="Enter Department Name" />
+	</div>
+	<div class="form-group">
+		<label for="MgrName">Manager Name</label>
+		<input type="text" class="form-control" id="MgrName" name="MgrName" placeholder="Enter Manager Name" />
+	</div>
+	<br />
+	<button type="submit" class="btn btn-primary">Submit</button>
+	<a href="/Department/Index" class="btn btn-secondary">Back to List</a>
+</form>

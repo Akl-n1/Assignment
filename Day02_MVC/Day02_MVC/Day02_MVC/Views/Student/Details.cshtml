@@ -1,0 +1,51 @@
+﻿@model Student
+@{
+	ViewData["Title"] = "Details";
+}
+
+<div class="card shadow-lg p-4 mb-4 bg-white rounded">
+	<div class="card-body">
+		<h2 class="card-title">@Model.Name</h2>
+		<p><strong>Department:</strong> @Model.Department?.Name</p>
+	</div>
+</div>
+
+<div class="card shadow-lg p-4 mb-4 bg-light rounded">
+	<div class="card-body">
+		<h3 class="card-title">Courses</h3>
+
+		@if (Model.StudCrs != null && Model.StudCrs.Any())
+		{
+			<ul class="list-group">
+				@foreach (var sc in Model.StudCrs)
+				{
+					<li class="list-group-item">
+						<p><strong>Course:</strong> @sc.Course?.Name</p>
+						<p><strong>Grade:</strong> @sc.Grade</p>
+
+						<p><strong>Teachers:</strong></p>
+						@if (sc.Course?.Teachers != null && sc.Course.Teachers.Any())
+						{
+							<ul class="list-group list-group-flush ms-3">
+								@foreach (var t in sc.Course.Teachers)
+								{
+									<li class="list-group-item">@t.Name</li>
+								}
+							</ul>
+						}
+						else
+						{
+							<span class="text-muted">No teachers assigned</span>
+						}
+					</li>
+				}
+			</ul>
+		}
+		else
+		{
+			<p class="text-muted">No courses assigned for this student.</p>
+		}
+	</div>
+</div>
+
+<a href="/Student/Index" class="btn btn-primary">Back to List</a>

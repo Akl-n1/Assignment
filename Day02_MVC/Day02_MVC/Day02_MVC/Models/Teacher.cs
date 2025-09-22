@@ -1,0 +1,20 @@
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Day02_MVC.Models
+{
+    public class Teacher
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Salary { get; set; }
+        public string Address { get; set; }
+
+        [ForeignKey("Department")]
+        public int DeptId { get; set; }
+        public Department Department { get; set; }
+
+        [ForeignKey("Course")]
+        public int CourseId { get; set; }
+        public Course Course { get; set; }
+    }
+}
